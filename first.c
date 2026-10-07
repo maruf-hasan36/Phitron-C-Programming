@@ -6,5 +6,5 @@ int main()
     a=true;
     bool b = false;
     printf("%d\n",a);
-    printf("%d",b);
+    printf("%d\n",b);
 };
