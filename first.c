@@ -1,9 +1,10 @@
 #include<stdio.h>
+#include<stdbool.h>
 int main()
 {
-int num1 = 23;
-float num2 = 23.435;
-char name = 'd';
-printf("%f", num2);
-return 0;
+    bool a;
+    a=true;
+    bool b = false;
+    printf("%d\n",a);
+    printf("%d",b);
 };
