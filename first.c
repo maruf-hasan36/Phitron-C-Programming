@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int num = 634534;
-    float num1 = 334.45;
-    char name = 'm';
-    
-    return 0;
-}
+int num1 = 23;
+float num2 = 23.435;
+char name = 'd';
+printf("%f", num2);
+return 0;
+};
