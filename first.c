@@ -1,11 +1,9 @@
 #include<stdio.h>
-#include<stdbool.h>
 int main()
 {
-    bool a;
-    a=true;
-    bool b = false;
-    printf("%d\n",a);
-    printf("%d\n",b);
-    //complete
+    int z;
+    float b;
+    scanf("%d %f",&z,&b);
+    printf("%d %f",z,b);
+    return 0;
 };
