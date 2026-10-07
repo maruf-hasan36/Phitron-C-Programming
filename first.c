@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello World\n");
-    printf("Hello World");
+    int num = 6345;
+    float num1 = 334.45;
+    char name = 'm';
+    
     return 0;
 }
